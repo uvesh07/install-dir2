@@ -1,0 +1,21 @@
+global-css-and-js:
+  css:
+    theme: 
+      css/bootstrap.min.css: {}
+      css/custom.css: {}
+      css/fontawesome.css: {}
+      css/fontawesome.min.css: {}
+      css/slick-theme.css: {}
+      css/slick-theme.min.css: {}
+      css/templatemo.css: {}
+      css/templatemo.min.css: {}
+
+  js:
+    theme:
+      js/bootstrap.bundle.min.js: {}
+      js/custom.js: {}
+      js/jquery-1.11.0.min.js: {}
+      js/jquery-migrate-1.2.1.min.js: {}
+      js/slick.min.js: {}
+      js/templatemo.js: {}
+      js/templatemo.min.js: {}

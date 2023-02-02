@@ -1,0 +1,16 @@
+new_page.newPage:
+  path: '/new-page'
+  defaults:
+    _controller: '\Drupal\new_page\Controller\NewPageController::newPage'
+    _title: 'New Page'
+  requirements:
+    _permission: 'access content'
+
+new_page.information:
+  path: '/info-page'
+  defaults:
+    _controller: '\Drupal\new_page\Controller\NewPageController::information'
+    _title: 'Information Page'
+  requirements:
+    _permission: 'access content'
+    _role: student+administrator

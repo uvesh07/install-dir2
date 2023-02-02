@@ -1,0 +1,24 @@
+name: Shoping
+description: This is a shoping theme.
+type: theme
+core: 8.x 
+package: other
+base theme: false
+libraries:
+  - shoping/global-css-and-js
+
+regions:
+  contact_header: 'Contact Header'
+  social_link_header: 'Social Links Header' 
+  logo: 'Logo'
+  main_menu: 'Main Menu' 
+  search: 'Search bar'
+  search_right: 'Search Right'
+  main_slider: 'Main slider'
+  content: 'Content'
+  footer_col_1: 'Footer Column 1'
+  footer_col_2: 'Footer Column 2'
+  footer_col_3: 'Footer Column 3'
+  social_link_footer: 'Social Links Footer'
+  social_link_footer_right: 'Social Links Footer Right'
+  copy_right: 'Copy Right'

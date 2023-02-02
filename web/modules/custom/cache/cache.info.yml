@@ -1,0 +1,5 @@
+name: cache
+type: module
+description: This module is for cache rebuild practicing.
+package: Custom
+core_version_requirement: ^8.0 || ^9 || ^10
